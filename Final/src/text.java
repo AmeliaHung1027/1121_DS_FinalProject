@@ -1,5 +1,5 @@
 
 public class text {
-	int test = 1;
+	int test = 2;
 	
 }
