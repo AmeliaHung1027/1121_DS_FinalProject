@@ -1,6 +1,6 @@
 
 public class text {
-	int test = 6;
+	int test = 7;
 	
 	
 }
