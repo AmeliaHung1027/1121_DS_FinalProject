@@ -2,7 +2,7 @@ class Test {
 
  public static void main(String[] args) {
 
-  int test = 3;
+  int test = 4;
   
  }
 }
