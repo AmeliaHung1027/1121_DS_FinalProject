@@ -55,7 +55,7 @@ function SearchBar({ placeholder, data, title, subtitle, onSearch }) {
   const handleSearch = async () => {
     if (wordEntered.length > 0) {
       try {
-        const results = await search(wordEntered.join(' ')+"無麩質");
+        const results = await search(wordEntered.join(' ')+"台灣無麩質");
         const existingData = JSON.parse(localStorage.getItem('Data')) || [];
         const newData = existingData.concat(results);
         localStorage.setItem('Data', JSON.stringify(newData));
