@@ -16,3 +16,7 @@ This website offers a curated collection of gluten-free recipes, restaurant reco
 
 - **Restaurant Recommendations:**
   Discover gluten-free-friendly restaurants in your area or explore new places to enjoy a safe and delicious dining experience.
+
+## Website Link
+
+Visit our website: [The Gluten Escape](https://theglutenescape.netlify.app/)
